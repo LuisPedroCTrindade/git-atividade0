@@ -4,3 +4,8 @@ Turmas ativas
     Matemática
     Biologia
     Filosofia
+    Sociologia
+    Ed. Física
+    Língua Portuguesa
+    Inglês
+    Francês
