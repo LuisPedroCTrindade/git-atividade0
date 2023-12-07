@@ -1,0 +1,6 @@
+Turmas ativas
+    Física
+    Química
+    Matemática
+    Biologia
+    Filosofia
